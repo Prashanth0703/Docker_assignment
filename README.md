@@ -5,7 +5,7 @@ Hackfest Registration demo
 
 1. Connect to a Linux system with git docker and docker-compose installed
 2. Checkout the repo 
- * `git clone https://github.com/vinod2305/Docker_assignment.git`
+ * `git clone https://github.com/rashanth0703/Docker_assignment`
 3. cd to the hackfest directory
   * `cd Docker_assignment`
 4. start docker compose
